@@ -2,6 +2,6 @@ body {
     background: lightgoldenrodyellow;
 }
 
-h1 {
-    text-emphasis-color: brown;
+.subheader{
+    color: lightblue;
 }
